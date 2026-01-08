@@ -148,11 +148,11 @@ with st.sidebar:
     
     **Product Queries:**
     - List all products sorted by price
-    - Show products under $100
+    - Show products under 100
     - What is the average product price?
     
     **Complex Queries:**
-    - Show employees who handled orders over $5000
+    - Show employees who handled orders over 5000
     - Which department has the highest average salary?
     - Show customer orders with employee details
     """)
