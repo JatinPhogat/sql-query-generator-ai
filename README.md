@@ -1,10 +1,10 @@
-# Natural Language Database Search Interface
+# Natural Language Database Search And SQL Query Generator
 
 A Streamlit application that converts natural language queries to SQL for querying a PostgreSQL database.
 
 ## Demo Video
 
-![Demo](demo.gif)
+![Demo](https://drive.google.com/file/d/1Q4SWAiYedu39GbyCvosHW3IF0qzYR43d/view?usp=drive_link)
 
 *Watch how the application converts natural language queries into SQL and displays results*
 
