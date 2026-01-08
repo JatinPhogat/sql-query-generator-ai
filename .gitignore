@@ -1,0 +1,18 @@
+# Add your .env file to gitignore
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+.DS_Store
+.vscode/
+.idea/
