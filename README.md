@@ -4,9 +4,8 @@ A Streamlit application that converts natural language queries to SQL for queryi
 
 ## Demo Video
 
-![Demo](https://drive.google.com/file/d/1Q4SWAiYedu39GbyCvosHW3IF0qzYR43d/view?usp=drive_link)
-
-*Watch how the application converts natural language queries into SQL and displays results*
+[Google drive link](https://drive.google.com/file/d/1Q4SWAiYedu39GbyCvosHW3IF0qzYR43d/view?usp=drive_link)
+*Follow the link to watch how the application converts natural language queries into SQL and displays results*
 
 ## Requirements
 
