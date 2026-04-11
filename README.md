@@ -22,7 +22,6 @@ pip install -r requirements.txt
 ```
 
 2. Configure environment variables:
-Copy `.env.example` to `.env` and update with your credentials:
 ```
 DB_HOST=localhost
 DB_PORT=5432
